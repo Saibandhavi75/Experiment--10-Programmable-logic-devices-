@@ -56,10 +56,10 @@ endmodule
 
 ### RTL LOGIC  
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--10-Programmable-logic-devices-/blob/main/de.11.png?raw=true)
 
 ### TIMING DIGRAMS  
 
-![output](?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--10-Programmable-logic-devices-/blob/main/de.22.png?raw=true)
 
 ### RESULTS 
