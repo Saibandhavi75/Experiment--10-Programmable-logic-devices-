@@ -15,17 +15,36 @@ A process known as "burning the PROM" blows fuses for bit settings, rendering th
 Figure -01 PROM 
  
  
-### Procedure
-/* write all the steps invloved */
+### Procedure:
 
+### Step 1:
+Open Quartus II and select new project and choose the file location.
+
+### Step 2:
+Module Declaration. Module should have the file name.
+
+### Step 3:
+Input-Output Delecaration.
+
+### Step 4:
+Use begin declaration to define the functionality of logic circuits.
+
+### Step 5:
+At the end give endmodule.
+
+### Step 6:
+Run the program and choose RTL viewer to get RTL realization.
 
 
 ### PROGRAM 
 /*
 Program for PROM 
+
 Developed by: Aruru.Sai Bandhavi
+
 RegisterNumber:  212221240006
 */
+```
 module ROM(out, addr, CS);
 output[15:0] out;
 input[3:0] addr;
@@ -53,7 +72,7 @@ ROM[15]=16'h5401;
 out=ROM[addr];
 end
 endmodule
-
+```
 ### RTL LOGIC  
 
 ![output](https://github.com/Saibandhavi75/Experiment--10-Programmable-logic-devices-/blob/main/de.11.png?raw=true)
@@ -63,3 +82,4 @@ endmodule
 ![output](https://github.com/Saibandhavi75/Experiment--10-Programmable-logic-devices-/blob/main/de.22.png?raw=true)
 
 ### RESULTS 
+PROM has been implemented using verilog and output has been validated.
