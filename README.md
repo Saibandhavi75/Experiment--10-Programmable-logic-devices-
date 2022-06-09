@@ -37,6 +37,7 @@ Run the program and choose RTL viewer to get RTL realization.
 
 
 ### PROGRAM 
+```
 /*
 Program for PROM 
 
@@ -44,6 +45,7 @@ Developed by: Aruru.Sai Bandhavi
 
 RegisterNumber:  212221240006
 */
+```
 ```
 module ROM(out, addr, CS);
 output[15:0] out;
