@@ -79,7 +79,7 @@ endmodule
 
 ### TIMING DIGRAMS  
 
-![output](https://github.com/Saibandhavi75/Experiment--10-Programmable-logic-devices-/blob/main/de.22.png?raw=true)
+![output](https://github.com/Saibandhavi75/Experiment--10-Programmable-logic-devices-/blob/main/de.22.jpeg?raw=true)
 
 ### RESULTS 
 PROM has been implemented using verilog and output has been validated.
